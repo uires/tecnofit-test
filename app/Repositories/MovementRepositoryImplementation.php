@@ -23,7 +23,7 @@ class MovementRepositoryImplementation implements MovementRepository
     }
 
     /**
-     * Return an collection 
+     * Return an collection of ranks
      *
      * @param integer $id
      * @return Collection<int, object>
