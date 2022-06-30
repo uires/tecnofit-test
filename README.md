@@ -20,6 +20,8 @@ Você vai precisar:
 - Composer 2.x instalado
 - PHP 8.x instalado
 - MariaDB 10.6 instalado ou MySQL semelhante
+- Um banco de dados definido no .env
+- Um banco de dados para teste de integração definido no .env.testing
 
 ## Para rodar a aplicação
 
